@@ -6,7 +6,7 @@
 
 
 
-*(English version is below)*
+*(English version is below)* Unity version: 6000.4.6f1
 
 ## 🇹🇷 Türkçe Kurulum Rehberi
 
