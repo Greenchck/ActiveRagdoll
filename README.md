@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Video Project" src="https://github.com/user-attachments/assets/5049cd11-21a6-44e0-9588-4af5d50d3cb1" />
+<img width="1640" height="640" alt="Video Project" src="https://github.com/user-attachments/assets/5049cd11-21a6-44e0-9588-4af5d50d3cb1" />
 
 <img width="1640" height="640" alt="Ekran Kaydı 2026-05-18 163559" src="https://github.com/user-attachments/assets/31f2a1fb-29a3-495a-a6ca-3fe530402300" />
 
