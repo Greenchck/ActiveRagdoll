@@ -1,6 +1,4 @@
-<img width="1640" height="640" alt="Video Project" src="https://github.com/user-attachments/assets/5049cd11-21a6-44e0-9588-4af5d50d3cb1" />
 
-<img width="1640" height="640" alt="Ekran Kaydı 2026-05-18 163559" src="https://github.com/user-attachments/assets/31f2a1fb-29a3-495a-a6ca-3fe530402300" />
 
 <img width="1640" height="917" alt="Ekran görüntüsü 2026-05-18 163536" src="https://github.com/user-attachments/assets/3fa30a80-b0f9-4cf4-b0fa-7fe101ea5487" />
 
@@ -57,6 +55,9 @@ Unity'nin varsayılan `Character Joint`leri Active Ragdoll için uygun değildir
 **Hazırsınız!** Play'e basın ve WASD ile karakterinizi kontrol edin. `Head Spring Multiplier` değeriyle kafanın sallanma (Bobblehead) oranını değiştirebilirsiniz.
 
 ---
+<img width="1080" height="640" alt="Video Project" src="https://github.com/user-attachments/assets/5049cd11-21a6-44e0-9588-4af5d50d3cb1" />
+
+<img width="1080" height="640" alt="Ekran Kaydı 2026-05-18 163559" src="https://github.com/user-attachments/assets/31f2a1fb-29a3-495a-a6ca-3fe530402300" />
 
 ## 🇬🇧 English Setup Tutorial
 
