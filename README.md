@@ -12,11 +12,6 @@
 
 Bu proje, Unity'de Human: Fall Flat veya Gang Beasts tarzı kütleden bağımsız, sarsılmaz bir Active Ragdoll sistemi kurmanızı sağlar.
 
-https://github.com/user-attachments/assets/44c66b12-f698-4a4c-90bb-18b40e5e08bd
-
-https://github.com/user-attachments/assets/6ddae534-c627-483a-af5c-053942fc8b33
-
-
 ### 1. Hazırlık ve İki İskelet Sistemi
 Active Ragdoll sistemleri iki karakter kopyası ile çalışır: Biri sadece animasyon oynatır (Hayalet), diğeri ise onu fiziksel olarak taklit eder (Ragdoll).
 
@@ -60,9 +55,10 @@ Unity'nin varsayılan `Character Joint`leri Active Ragdoll için uygun değildir
 
 ---
 
+https://github.com/user-attachments/assets/44c66b12-f698-4a4c-90bb-18b40e5e08bd
 
-https://github.com/user-attachments/assets/f66b825a-7e27-4813-95b6-5dc2b3f5dcf1
 
+https://github.com/user-attachments/assets/893282d2-7d76-47e1-8177-1b09a0582198
 
 ## 🇬🇧 English Setup Tutorial
 
