@@ -1,21 +1,21 @@
 
-
-https://github.com/user-attachments/assets/6ddae534-c627-483a-af5c-053942fc8b33
-
-
-
 <img width="1640" height="917" alt="Ekran görüntüsü 2026-05-18 163536" src="https://github.com/user-attachments/assets/3fa30a80-b0f9-4cf4-b0fa-7fe101ea5487" />
 
-
-
-
 # Unity Active Ragdoll Tutorial / Kurulum Rehberi
+
+
+
 
 *(English version is below)*
 
 ## 🇹🇷 Türkçe Kurulum Rehberi
 
 Bu proje, Unity'de Human: Fall Flat veya Gang Beasts tarzı kütleden bağımsız, sarsılmaz bir Active Ragdoll sistemi kurmanızı sağlar.
+
+https://github.com/user-attachments/assets/44c66b12-f698-4a4c-90bb-18b40e5e08bd
+
+https://github.com/user-attachments/assets/6ddae534-c627-483a-af5c-053942fc8b33
+
 
 ### 1. Hazırlık ve İki İskelet Sistemi
 Active Ragdoll sistemleri iki karakter kopyası ile çalışır: Biri sadece animasyon oynatır (Hayalet), diğeri ise onu fiziksel olarak taklit eder (Ragdoll).
@@ -59,9 +59,10 @@ Unity'nin varsayılan `Character Joint`leri Active Ragdoll için uygun değildir
 **Hazırsınız!** Play'e basın ve WASD ile karakterinizi kontrol edin. `Head Spring Multiplier` değeriyle kafanın sallanma (Bobblehead) oranını değiştirebilirsiniz.
 
 ---
-<img width="1080" height="640" alt="Video Project" src="https://github.com/user-attachments/assets/5049cd11-21a6-44e0-9588-4af5d50d3cb1" />
 
-<img width="1080" height="640" alt="Ekran Kaydı 2026-05-18 163559" src="https://github.com/user-attachments/assets/31f2a1fb-29a3-495a-a6ca-3fe530402300" />
+
+https://github.com/user-attachments/assets/f66b825a-7e27-4813-95b6-5dc2b3f5dcf1
+
 
 ## 🇬🇧 English Setup Tutorial
 
