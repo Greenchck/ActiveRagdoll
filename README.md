@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/6ddae534-c627-483a-af5c-053942fc8b33
+
+
+
 <img width="1640" height="917" alt="Ekran görüntüsü 2026-05-18 163536" src="https://github.com/user-attachments/assets/3fa30a80-b0f9-4cf4-b0fa-7fe101ea5487" />
 
 
